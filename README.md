@@ -1,4 +1,8 @@
 # Send-MSG2LINE-by-Python
 
-# Sticker List
+#### Generate access token
+  https://notify-bot.line.me/en/
+
+#### Sticker List
   https://devdocs.line.me/files/sticker_list.pdf
+
