@@ -6,3 +6,7 @@
 #### Sticker List
   https://devdocs.line.me/files/sticker_list.pdf
 
+#### Run this application
+```
+LINEnotify.py
+```
